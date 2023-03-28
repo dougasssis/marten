@@ -1,0 +1,6 @@
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.csproj.AssemblyReference.cache
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.AssemblyInfoInputs.cache
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.AssemblyInfo.cs
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.csproj.CoreCompileInputs.cache
+/Users/douglassantana/Desktop/EventSourcing/DocumentStorage/obj/Debug/net7.0/DocumentStorage.MvcApplicationPartsAssemblyInfo.cache
